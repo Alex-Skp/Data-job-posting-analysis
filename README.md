@@ -1,4 +1,13 @@
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
+# Team notes:  
+* Cleaned dataset to make it easier to find certain keywords in the job descriptions  
+* Removed meaningless words from the description, and stored it in lists.
+* Added up all lists in order to look for keywords we find meaningful
+* Decided to focus only in data scientist postings, as they were significantly more numerous than other postings
+* Checked in how many postings the skills we would have or might acquired in the bootcamp are included
+* Calculated the percentage over the total data scientist postings 
+* Plotted the result. We didnt spend enough time in the visualization but we will make it look better for the presentation.
+
 
 # Task : clean the data - summarise your findings in a 'one pager'
 
