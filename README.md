@@ -1,5 +1,15 @@
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
-# Team notes:  
+# The Project
+This is the first week group project for the data class from Ironhack, in Berlin, march 2021
+The description can be found at the end of this readme file.  
+ 
+## The Team:
+[samcana]https://github.com/samcana  
+[antonio-datahack ]https://github.com/antonio-datahack  
+[Jennipher K]https://github.com/Jennipher0716
+And myself.  
+
+## Team notes:  
 * Cleaned dataset to make it easier to find certain keywords in the job descriptions  
 * Removed meaningless words from the description, and stored it in lists.
 * Added up all lists in order to look for keywords we find meaningful
