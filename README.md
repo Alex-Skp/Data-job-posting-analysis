@@ -6,7 +6,7 @@ The description can be found at the end of this readme file.
 ## The Team:
 [samcana]https://github.com/samcana  
 [antonio-datahack ]https://github.com/antonio-datahack  
-[Jennipher K]https://github.com/Jennipher0716
+[Jennipher K]https://github.com/Jennipher0716  
 And myself.  
 
 ## Team notes:  
