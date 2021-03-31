@@ -3,13 +3,18 @@
 This is the first week group project for the data class from Ironhack, in Berlin, march 2021
 The description can be found at the end of this readme file.  
  
-## The Team:
+## The Team:  
 [samcana]https://github.com/samcana  
 [antonio-datahack ]https://github.com/antonio-datahack  
 [Jennipher K]https://github.com/Jennipher0716  
 And myself.  
 
-## Team notes:  
+## Process notes:    
+* As a starting point, we played a bit around with the data, checking keywords in full-data-test-mood-check-pre-analysis.ipynb  
+* We started the project doing a code along all together over week-1-project-code.ipynb  
+* this file creates the graph skills-data-scientist-usa.png, which we used to create a star wars themed deliverable, onepager-delivery.pdf  
+
+## As for the cleaning steps and executing of the code:   
 * Cleaned dataset to make it easier to find certain keywords in the job descriptions  
 * Removed meaningless words from the description, and stored it in lists.
 * Added up all lists in order to look for keywords we find meaningful
@@ -17,6 +22,11 @@ And myself.
 * Checked in how many postings the skills we would have or might acquired in the bootcamp are included
 * Calculated the percentage over the total data scientist postings 
 * Plotted the result. We didnt spend enough time in the visualization but we will make it look better for the presentation.
+
+## A final post-project:  
+* In the file creating-script we take the cleaned database, called export_usa.csv, and test the different steps to build a function that delivers the required graph  
+* The final function to test is in final-product-test.ipynb, feel free to fork and play around with it. 
+
 
 
 # Task : clean the data - summarise your findings in a 'one pager'
