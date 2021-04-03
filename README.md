@@ -1,7 +1,7 @@
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 # The Project
 This is the first week group project for the data class from Ironhack, in Berlin, march 2021
-The description can be found at the end of this readme file.  
+The tasks can be found at the end of this readme file.  
  
 ## The Team:  
 [samcana]https://github.com/samcana  
@@ -23,7 +23,7 @@ And myself.
 * Calculated the percentage over the total data scientist postings 
 * Plotted the result. We didnt spend enough time in the visualization but we will make it look better for the presentation.
 
-## A final post-project:  
+## A final post-project function:  
 * In the file creating-script we take the cleaned database, called export_usa.csv, and test the different steps to build a function that delivers the required graph  
 * The final function to test is in final-product-test.ipynb, feel free to fork and play around with it. 
 
