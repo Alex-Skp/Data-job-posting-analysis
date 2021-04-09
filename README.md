@@ -12,9 +12,9 @@ And myself.
 ## Process notes:    
 * As a starting point, we played a bit around with the data, checking keywords in full-data-test-mood-check-pre-analysis.ipynb  
 * We started the project doing a code along all together over week-1-project-code.ipynb  
-* this file creates the graph skills-data-scientist-usa.png, which we used to create a star wars themed deliverable, as this was the theme of the presentations. The deliverable is: onepager-delivery.pdf  
+* this file creates the graph skills-data-scientist-usa.png, which we used to create a star wars themed deliverable, as this was the theme of the presentations. You can find the deliverable here: https://github.com/Alex-Skp/Week-1-Project/blob/master/onepager-delivery.pdf 
 
-## As for the cleaning steps and executing of the code:   
+## As for the cleaning steps and executing of the code, worked in https://github.com/Alex-Skp/Week-1-Project/blob/master/week-1-project-code.ipynb
 * Cleaned dataset to make it easier to find certain keywords in the job descriptions  
 * Removed meaningless words from the description, and stored it in lists.
 * Added up all lists in order to look for keywords we find meaningful
