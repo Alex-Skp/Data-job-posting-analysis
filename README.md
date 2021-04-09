@@ -1,7 +1,7 @@
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 # The Project
 This is the first week group project for the data class from Ironhack, in Berlin, march 2021
-The tasks can be found at the end of this readme file.  
+The tasks can be found at the end of this readme file. We created a function that pulls data from a Data Job postings database, in order to create a visualization that shows the percentage of job adverts in the database that contains each keyword.
  
 ## The Team:  
 [samcana]https://github.com/samcana  
@@ -12,7 +12,7 @@ And myself.
 ## Process notes:    
 * As a starting point, we played a bit around with the data, checking keywords in full-data-test-mood-check-pre-analysis.ipynb  
 * We started the project doing a code along all together over week-1-project-code.ipynb  
-* this file creates the graph skills-data-scientist-usa.png, which we used to create a star wars themed deliverable, onepager-delivery.pdf  
+* this file creates the graph skills-data-scientist-usa.png, which we used to create a star wars themed deliverable, as this was the theme of the presentations. The deliverable is: onepager-delivery.pdf  
 
 ## As for the cleaning steps and executing of the code:   
 * Cleaned dataset to make it easier to find certain keywords in the job descriptions  
