@@ -15,7 +15,6 @@ And myself.
 * You can find the deliverable here: https://github.com/Alex-Skp/Week-1-Project/blob/master/onepager-delivery.pdf 
 
 ## As for the cleaning steps and executing of the code:
-* Check up the notebook: https://github.com/Alex-Skp/Week-1-Project/blob/master/group-project-code.ipynb
 * Cleaned dataset to make it easier to find certain keywords in the job descriptions  
 * Removed meaningless words from the description, and stored it in lists.
 * Added up all lists in order to look for keywords we find meaningful
@@ -23,12 +22,15 @@ And myself.
 * Checked in how many postings the skills we would have or might acquired in the bootcamp are included
 * Calculated the percentage over the total data scientist postings 
 * Plotted the result. We didnt spend enough time in the visualization but we will make it look better for the presentation.
+* Check up the notebook: https://github.com/Alex-Skp/Week-1-Project/blob/master/group-project-code.ipynb
 
 ## A final post-project function:  
-* The thinking process: https://github.com/Alex-Skp/Week-1-Project/blob/master/another-perspective-for-function.ipynb
-* The final result:  https://github.com/Alex-Skp/Week-1-Project/blob/master/final-product-test.ipynb
 * In the file creating-script we take the cleaned database, called export_usa.csv, and test the different steps to build a function that delivers the required graph  
 * The final function to test is in final-product-test.ipynb, feel free to fork and play around with it. 
+* The thinking process: https://github.com/Alex-Skp/Week-1-Project/blob/master/another-perspective-for-function.ipynb
+* The final result:  https://github.com/Alex-Skp/Week-1-Project/blob/master/final-product-test.ipynb
+
+
 
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
