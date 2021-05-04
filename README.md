@@ -1,4 +1,3 @@
-![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
 # The Project
 This is the first week group project for the data class from Ironhack, in Berlin, march 2021
@@ -35,6 +34,8 @@ And myself.
 
 
 * * * 
+
+![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
 
 # Task : clean the data - summarise your findings in a 'one pager'
