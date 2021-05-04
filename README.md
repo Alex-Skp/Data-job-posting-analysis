@@ -1,3 +1,5 @@
+![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
+
 # The Project
 This is the first week group project for the data class from Ironhack, in Berlin, march 2021
 The tasks can be found at the end of this readme file. We created a function that pulls data from a Data Job postings database, in order to create a visualization that shows the percentage of job adverts in the database that contains each keyword.
@@ -32,7 +34,8 @@ And myself.
 
 
 
-![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
+* * * 
+
 
 # Task : clean the data - summarise your findings in a 'one pager'
 
